@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\bin\Debug\net6.0\GuessTheNumberDotnet.exe
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\bin\Debug\net6.0\GuessTheNumberDotnet.deps.json
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\bin\Debug\net6.0\GuessTheNumberDotnet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\bin\Debug\net6.0\GuessTheNumberDotnet.dll
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\bin\Debug\net6.0\ref\GuessTheNumberDotnet.dll
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\bin\Debug\net6.0\GuessTheNumberDotnet.pdb
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.dll
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\ref\GuessTheNumberDotnet.dll
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.pdb
+C:\Users\Lenovo\Desktop\GuessTheNumberDotnet\obj\Debug\net6.0\GuessTheNumberDotnet.genruntimeconfig.cache
